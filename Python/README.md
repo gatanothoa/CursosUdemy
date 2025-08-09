@@ -6,12 +6,12 @@ Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 
 🐍 **Python**
 ```
-🟦��������������� 1/16 días (6%)
+🔷⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1/16 días (6%)
 ```
 
 ## Resúmenes diarios
 
-### Día Uno 🟦
+### Día Uno 🔷
 
 ¡Comenzamos la aventura Python!
 En este primer día aprendí a interactuar con el usuario usando `input()` y a mostrar mensajes personalizados con `print()`.
