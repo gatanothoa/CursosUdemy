@@ -6,9 +6,14 @@ Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 
 🐍 **Python**
 ```
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 0/16 días (0%)
+🟦��������������� 1/16 días (6%)
 ```
 
-## Resumen
+## Resúmenes diarios
 
-*Aún no hay días completados.*
+### Día Uno 🟦
+
+¡Comenzamos la aventura Python!
+En este primer día aprendí a interactuar con el usuario usando `input()` y a mostrar mensajes personalizados con `print()`.
+Descubrí cómo pedir datos al usuario y cómo combinarlos para crear saludos dinámicos.
+¡Primeros pasos sólidos en la programación interactiva! 🚀
