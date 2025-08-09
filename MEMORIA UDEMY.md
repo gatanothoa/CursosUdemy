@@ -1,20 +1,24 @@
 
 
+
 # MEMORIA UDEMY
 
 
 Este archivo sirve como memoria para registrar el avance diario, resúmenes y cualquier información relevante de los cursos de Udemy.
 
-## Flujo de actualización automático
 
-- Cada vez que se detecte una nueva carpeta con el nombre de un día (por ejemplo, "día 2", "día 3", etc.) dentro de la carpeta del curso correspondiente:
-	- Se analizará el contenido de esa carpeta.
-	- Se generará automáticamente un resumen corto, profesional y visual de lo aprendido en ese día.
-	- Se actualizará el avance visual en los README (principal y del curso) usando cuadritos de colores.
-	- Se agregará el resumen del día en ambos README.
-	- Se registrará también el avance y el resumen en este archivo MEMORIA UDEMY.md.
+## Flujo automático de actualización y subida a GitHub
 
-Solo crea la carpeta del día y el sistema hará el resto.
+- Cuando me indiques "sube a github", subiré automáticamente todos los cambios a tu repositorio.
+- Cuando detecte que alguna carpeta de curso tiene una subcarpeta con un día nuevo (por ejemplo, "Día Dos"), haré lo siguiente:
+	- Analizaré el contenido de la carpeta del día.
+	- Generaré un resumen profesional, corto y visual de lo aprendido en ese día.
+	- Actualizaré el avance visual en los README (principal y del curso) usando cuadritos de colores.
+	- Agregaré el resumen del día en ambos README.
+	- Registraré el avance y el resumen en este archivo MEMORIA UDEMY.md.
+- Todo el proceso será automático y consistente con el estilo gamer NES.
+
+Solo crea la carpeta del día y/o dime que suba a GitHub, y el sistema hará el resto.
 
 ## Acuerdo de visualización de avance
 
