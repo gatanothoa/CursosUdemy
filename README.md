@@ -40,12 +40,26 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 *Aún no hay días completados.*
 
 ### Python
-**Día Uno 🟦**
 
-¡Comenzamos la aventura Python!
-En este primer día aprendí a interactuar con el usuario usando `input()` y a mostrar mensajes personalizados con `print()`.
-Descubrí cómo pedir datos al usuario y cómo combinarlos para crear saludos dinámicos.
-¡Primeros pasos sólidos en la programación interactiva! 🚀
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+</div>
+
+**Día Uno 🟦 — ¡Bienvenido a Python!**
+
+> En este primer día de curso aprendí los fundamentos de la interacción con el usuario en Python. Descubrí cómo usar la función `input()` para recibir datos y la función `print()` para mostrar mensajes personalizados en pantalla.
+>
+> Practiqué la creación de saludos dinámicos, la captura de nombres y rutas, y la impresión de mensajes multilinea. ¡Fue un día de primeros pasos sólidos en la programación interactiva!
+>
+> <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200"/>
+
+**Temas clave:**
+- Uso de `input()` y `print()`
+- Concatenación de cadenas
+- Interacción básica con el usuario
+- Impresión de mensajes multilinea
+
+---
 
 ### SQL
 *Aún no hay días completados.*
