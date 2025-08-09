@@ -21,7 +21,7 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 ### Python
 🐍 **Python**
 ```
-🔷⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1/16 días (6%)
+🟦🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 1/16 días (6%)
 ```
 
 ### SQL
@@ -38,7 +38,7 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 *Aún no hay días completados.*
 
 ### Python
-**Día Uno 🔷**
+**Día Uno 🟦**
 
 ¡Comenzamos la aventura Python!
 En este primer día aprendí a interactuar con el usuario usando `input()` y a mostrar mensajes personalizados con `print()`.
