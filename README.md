@@ -43,26 +43,6 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 ### SQL
 *Aún no hay días completados.*
 
----
-
-<details>
-<summary>📁 Estructura del repositorio</summary>
-
-```text
-Udemy/
-├── JavaScript/
-│   └── README.md
-├── Python/
-│   └── README.md
-├── SQL/
-│   └── README.md
-├── MEMORIA UDEMY.md
-└── README.md
-```
-</details>
-
----
-
 <div align="center">
 	<sub>Actualiza este README cada vez que completes un día de curso. ¡Mucho éxito en tu aprendizaje! 🚀</sub>
 </div>
