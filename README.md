@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" style="vertical-align:middle;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" style="vertical-align:middle;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" style="vertical-align:middle;"/>
+
 # Cursos Udemy
 
 <div align="center">
@@ -13,19 +15,19 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 ## Progreso General
 
 ### JavaScript
-🎮 **JavaScript**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" style="vertical-align:middle;"/> **JavaScript**
 ```
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0/18 días (0%)
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0/18 días (0%)
 ```
 
 ### Python
-🐍 **Python**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" style="vertical-align:middle;"/> **Python**
 ```
 🟦🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 1/16 días (6%)
 ```
 
 ### SQL
-🟩 **SQL**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" style="vertical-align:middle;"/> **SQL**
 ```
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 0/12 días (0%)
 ```

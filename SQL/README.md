@@ -1,14 +1,16 @@
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" style="vertical-align:middle;"/>
+
 # Curso de SQL en Udemy
 
 Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 
 ## Progreso
 
-🟩 **SQL**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" style="vertical-align:middle;"/> **SQL**
 ```
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 0/12 días (0%)
 ```
 
-## Resumen
+## Resúmenes diarios
 
 *Aún no hay días completados.*
