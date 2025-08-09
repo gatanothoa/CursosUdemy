@@ -8,6 +8,13 @@ Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 [░░░░░░░░░░░░░░░░] 0/16 días
 ```
 
+## Progreso
+
+🐍 **Python**
+```
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 0/16 días (0%)
+```
+
 ## Resumen
 
 *Aún no hay días completados.*
