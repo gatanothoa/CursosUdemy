@@ -9,16 +9,17 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 
 ---
 
+
 ## Progreso General
 
 ### JavaScript
-<img src="https://progress-bar.dev/0/?title=0%20de%2018%20d%C3%ADas&width=400&color=yellow" alt="Progreso JavaScript" />
+`[░░░░░░░░░░░░░░░░░░░░] 0/18 días (0%)`
 
 ### Python
-<img src="https://progress-bar.dev/0/?title=0%20de%2016%20d%C3%ADas&width=400&color=blue" alt="Progreso Python" />
+`[░░░░░░░░░░░░░░░░░░] 0/16 días (0%)`
 
 ### SQL
-<img src="https://progress-bar.dev/0/?title=0%20de%2012%20d%C3%ADas&width=400&color=green" alt="Progreso SQL" />
+`[░░░░░░░░░░░░░░░░] 0/12 días (0%)`
 
 ---
 
