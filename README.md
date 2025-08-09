@@ -5,7 +5,7 @@
 	<h1>📚 Progreso de Cursos Udemy</h1>
 </div>
 
-Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avance y resúmenes diarios de los cursos que tome, organizados por lenguaje o tecnología.
+Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avance y resúmenes del día a día que avence en los cursos que tome, estarán organizados por lenguaje o tecnología.
 
 ---
 
