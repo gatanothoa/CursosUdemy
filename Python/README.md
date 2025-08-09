@@ -1,4 +1,6 @@
-# Curso de Python en Udemy
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="vertical-align:middle;"/>
+
+# Curso de Python en Udemy 
 
 Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 
