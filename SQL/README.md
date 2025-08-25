@@ -13,4 +13,8 @@ Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 
 ## Resúmenes diarios
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
+</div>
+
 *Aún no hay días completados.*
