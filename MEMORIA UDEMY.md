@@ -55,8 +55,9 @@ Cada vez que termines un día, se actualizarán el README principal y el del len
 ## JavaScript
 - Días completados: 0/18
 ## Python
- Días completados: 2/16
- Resúmenes diarios:
+
+Días completados: 3/16
+Resúmenes diarios:
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
@@ -81,7 +82,7 @@ Cada vez que termines un día, se actualizarán el README principal y el del len
 ### Día Dos 🟦 — Variables, Tipos de Datos y Comisiones
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+	<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </div>
 
 > En el segundo día me sumergí en los conceptos esenciales de Python: variables, tipos de datos y operadores matemáticos. Aprendí a declarar variables, distinguir entre enteros, flotantes, cadenas, booleanos, listas, tuplas, conjuntos y diccionarios. Practiqué conversiones entre tipos y el uso de operadores para realizar cálculos y redondeos.
@@ -97,6 +98,29 @@ Cada vez que termines un día, se actualizarán el README principal y el del len
 - Conversiones entre tipos de datos
 - Formateo de cadenas (f-string, format, %)
 - Proyecto: cálculo de comisiones
+
+---
+
+### Día Tres 🟦 — Manipulación avanzada de cadenas y colecciones
+
+<div align="center">
+	<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+</div>
+
+> En el tercer día profundicé en el manejo de cadenas y colecciones en Python. Aprendí a usar métodos como `index()`, `rindex()`, y practiqué con listas, tuplas, sets y diccionarios. Realicé ejercicios para buscar elementos, manejar excepciones y manipular datos de forma eficiente.
+>
+> El proyecto consistió en aplicar estos conceptos para resolver problemas prácticos, consolidando el uso de estructuras de datos y métodos avanzados. ¡Ahora puedo trabajar con información compleja y automatizar búsquedas y análisis!
+>
+> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+
+**Temas clave:**
+- Métodos de cadenas: index, rindex
+- Manejo de excepciones
+- Listas, tuplas, sets y diccionarios
+- Búsqueda y manipulación de datos
+- Proyecto: manipulación avanzada de colecciones
+
+---
 - Días completados: 1/16
 - Resúmenes diarios:
 

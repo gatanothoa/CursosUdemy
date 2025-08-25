@@ -23,7 +23,7 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 ### Python
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" style="vertical-align:middle;"/> **Python**
 ```
-🟦🟦🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 2/16 días (12%)
+🟦🟦🟦🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 3/16 días (19%)
 ```
 
 ### SQL
@@ -80,6 +80,27 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 - Conversiones entre tipos de datos
 - Formateo de cadenas (f-string, format, %)
 - Proyecto: cálculo de comisiones
+
+---
+
+**Día Tres 🟦 — Manipulación avanzada de cadenas y colecciones**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+</div>
+
+> En el tercer día profundicé en el manejo de cadenas y colecciones en Python. Aprendí a usar métodos como `index()`, `rindex()`, y practiqué con listas, tuplas, sets y diccionarios. Realicé ejercicios para buscar elementos, manejar excepciones y manipular datos de forma eficiente.
+>
+> El proyecto consistió en aplicar estos conceptos para resolver problemas prácticos, consolidando el uso de estructuras de datos y métodos avanzados. ¡Ahora puedo trabajar con información compleja y automatizar búsquedas y análisis!
+>
+> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+
+**Temas clave:**
+- Métodos de cadenas: index, rindex
+- Manejo de excepciones
+- Listas, tuplas, sets y diccionarios
+- Búsqueda y manipulación de datos
+- Proyecto: manipulación avanzada de colecciones
 
 ---
 
