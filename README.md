@@ -63,10 +63,6 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 
 **Día Dos 🟦 — Variables, Tipos de Datos y Comisiones**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</div>
-
 > En el segundo día me sumergí en los conceptos esenciales de Python: variables, tipos de datos y operadores matemáticos. Aprendí a declarar variables, distinguir entre enteros, flotantes, cadenas, booleanos, listas, tuplas, conjuntos y diccionarios. Practiqué conversiones entre tipos y el uso de operadores para realizar cálculos y redondeos.
 >
 > El proyecto del día fue crear un programa para calcular la comisión de ventas de un vendedor, aplicando lógica matemática y mostrando resultados personalizados. ¡Ahora puedo automatizar cálculos y presentar información de forma profesional!
@@ -84,10 +80,6 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 ---
 
 **Día Tres 🟦 — Manipulación avanzada de cadenas y colecciones**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
-</div>
 
 > En el tercer día profundicé en el manejo de cadenas y colecciones en Python. Aprendí a usar métodos como `index()`, `rindex()`, y practiqué con listas, tuplas, sets y diccionarios. Realicé ejercicios para buscar elementos, manejar excepciones y manipular datos de forma eficiente.
 >
