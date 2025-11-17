@@ -35,6 +35,19 @@ Bienvenido a mi repositorio de cursos de Udemy. Aquí iré documentando mi avanc
 ---
 
 ## Resúmenes Diarios
+<!-- AUTO_SUMMARIES_START -->
+### Python — Día cuatro
+
+Resumen automático para Python Día cuatro.
+
+### JavaScript — Día Uno
+
+Resumen automático para JavaScript Día Uno.
+
+### SQL — Día Uno
+
+Resumen automático para SQL Día Uno.
+<!-- AUTO_SUMMARIES_END -->
 
 ### JavaScript
 *Aún no hay días completados.*

@@ -11,11 +11,27 @@ Resumen del curso, progreso y temas vistos se irán actualizando aquí.
 🟦🟦🟦🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 3/16 días (19%)
 ```
 
-## Resúmenes diarios
+## Resúmenes Diarios
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
 </div>
+
+<!-- AUTO_SUMMARIES_START -->
+### Python summary
+
+### Python — Día cuatro
+
+Resumen automático para Python Día cuatro.
+
+### JavaScript — Día Uno
+
+Resumen automático para JavaScript Día Uno.
+
+### SQL — Día Uno
+
+Resumen automático para SQL Día Uno.
+<!-- AUTO_SUMMARIES_END -->
 
 ### Día Uno 🟦 — ¡Bienvenido a Python!
 
